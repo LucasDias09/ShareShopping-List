@@ -7,7 +7,10 @@ Nesta aplicação, poderemos adicionar itens de mercearia com seu nome, quantida
 
 # É necessario configurar as corretas credenciais para a base de dados que se encontra no seguinte directorio: connect/liga.php 
 
-![login](https://github.com/LucasDias09/ShareShopping-List/assets/86629761/9a0c25be-24a2-4654-9225-053b07850573)
-![register](https://github.com/LucasDias09/ShareShopping-List/assets/86629761/639f15e1-dcdc-4881-8468-5925d91db18b)
-![lista de compras](https://github.com/LucasDias09/ShareShopping-List/assets/86629761/f97dbb34-9435-4d7f-ae6e-18d0e7421b34)
-![custostotais](https://github.com/LucasDias09/ShareShopping-List/assets/86629761/d8084b28-fc9f-418b-bf4e-41a5f545d163)
+![login](https://github.com/LucasDias09/ShareShopping-List/assets/86629761/9f5e6494-788c-415d-b858-a05e3dc53a46)
+![register](https://github.com/LucasDias09/ShareShopping-List/assets/86629761/6afdaeac-fe67-4f2d-a404-34d1a4ff246a)
+![lista de compras](https://github.com/LucasDias09/ShareShopping-List/assets/86629761/856b12bc-1208-47ef-b57e-7ce0fb1f0479)
+![lista](https://github.com/LucasDias09/ShareShopping-List/assets/86629761/9856defb-3070-492d-a25a-92934cf705f1)
+![custostotais](https://github.com/LucasDias09/ShareShopping-List/assets/86629761/b5d062f6-b527-484e-bfb7-beecbc0b5d9b)
+![mercado](https://github.com/LucasDias09/ShareShopping-List/assets/86629761/a2325b84-d3a6-4086-bd7d-1d6f1f93810e)
+![home](https://github.com/LucasDias09/ShareShopping-List/assets/86629761/2b7c0ac1-a754-4c06-9d28-39254f0cc5f4)
