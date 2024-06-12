@@ -1,0 +1,25 @@
+create table users(
+	username char(50) PRIMARY key,
+    email char(50),
+    id_familia char(50),
+    nif int(9),
+    passwoard char(100),
+    verified int(2)
+);
+create table lista (
+	ingredientes char(50),
+    custo char(50),
+    id_compra int(10) PRIMARY key AUTO_INCREMENT,
+    data date,
+    username char(50) ,
+    quantidade int(20),
+    FlagStock int(10),
+    id_familia char(50)
+);
+CREATE table mercado(
+	id_ingred int(10) PRIMARY key AUTO_INCREMENT,
+    ingredMarket char(50),
+    localizacao char(50),
+    tipeMarket char(50),
+    tipoingrediente char(50)
+);
